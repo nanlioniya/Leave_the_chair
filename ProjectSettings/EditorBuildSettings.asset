@@ -6,17 +6,44 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/_MyRoomStart.unity
+    guid: bfa723e3deb35fe49acf5a1afb5a7fb5
+  - enabled: 1
+    path: Assets/Scenes/_Stairs.unity
+    guid: 30e48e1335dcf754db7def4272bbd280
+  - enabled: 1
+    path: Assets/Scenes/_Alley.unity
+    guid: 3264f59e6acaa974391deb0c66459a97
+  - enabled: 1
+    path: Assets/Scenes/Taipei.unity
+    guid: 95ce12d26acef05438befa0d7f422a1b
+  - enabled: 1
+    path: Assets/Scenes/_Platform.unity
+    guid: 85216a9fa2fe492448e9fa7b1450eb2c
+  - enabled: 1
+    path: Assets/Scenes/_BlackScene.unity
+    guid: d67dfc50dc7cb7a488be6c5092cd9ffd
+  - enabled: 1
+    path: Assets/Scenes/_Station.unity
+    guid: 1fc7fe070bb0ce545bb268e7ddd99a74
+  - enabled: 1
+    path: Assets/Scenes/_Road.unity
+    guid: e78e056b35d1e164c93d4384ef0da5e3
+  - enabled: 1
+    path: Assets/Scenes/_ChiaoTung.unity
+    guid: b17bc075dd3bef44c96bc21d2f13c9a5
+  - enabled: 1
+    path: Assets/Scenes/White room.unity
+    guid: 3fa79921d74a99e45a7940bcf7aacafa
+  - enabled: 1
+    path: Assets/Scenes/_MyRoomEnd.unity
+    guid: 03701cc08bcc29e4a8313cc3b04d524d
+  - enabled: 1
+    path: Assets/Scenes/_EndBlackScene.unity
+    guid: a9b25b78e75258d4593d5be85d0b9a61
+  - enabled: 0
     path: Assets/Scenes/HandGrab.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
-    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/HandGrabExamples.unity
-    guid: 39ae0e546b9edc0408d3b11c6a7c2814
-  - enabled: 0
-    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/HandGrabUseExamples.unity
-    guid: 509f8fa80c708b343a603a4771d35c85
-  - enabled: 0
-    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/PokeExamples.unity
-    guid: ada3086bde0ab18459589e22d8d9e182
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9fc37c23130729347960dc1634b1967d, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ce79712e04602c6488382f7be7c8b5b9, type: 2}
